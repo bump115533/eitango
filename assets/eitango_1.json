@@ -1,0 +1,29 @@
+[
+	{
+	"id": 6,
+	"eng": "administration",
+	"class1": "名詞",
+	"jap1": "経営、運営",
+	"class2": "",
+	"jap2": "",
+	"diff": 3
+	},
+	{
+	"id": 7,
+	"eng": "advance",
+	"class1": "動詞",
+	"jap1": "前進する",
+	"class2": "名詞",
+	"jap2": "前進",
+	"diff": 3
+	},
+	{
+	"id": 8,
+	"eng": "alter",
+	"class1": "動詞",
+	"jap1": "変える",
+	"class2": "",
+	"jap2": "",
+	"diff": 3
+	}
+]
